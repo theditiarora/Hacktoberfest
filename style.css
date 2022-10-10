@@ -2,7 +2,7 @@
     margin: 0;
 }
 body{
-    background-color: yellow;
+    background-color: pink;
     display: flex;
     flex-direction: column;
     justify-content: right;
@@ -12,6 +12,5 @@ body{
     width: 150vw;
     font-family: Helvetica;
     height: 100vh;
-=======
     overflow-x: hidden;
 }
