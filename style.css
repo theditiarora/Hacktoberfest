@@ -13,4 +13,8 @@ body{
     font-family: Helvetica;
     height: 100vh;
     overflow-x: hidden;
+    color: #fff;
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
 }
